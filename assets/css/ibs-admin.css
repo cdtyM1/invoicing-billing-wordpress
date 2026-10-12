@@ -1,0 +1,31 @@
+body {
+    background: #f8fafc;
+}
+
+#wpbody-content {
+    padding: 0;
+}
+
+#wpwrap {
+    background: #f8fafc;
+}
+
+#toplevel_page_tagihpro-billing .wp-menu-image img {
+    display: none;
+}
+
+#toplevel_page_tagihpro-billing .wp-menu-name {
+    font-weight: 700;
+}
+
+#toplevel_page_tagihpro-billing .dashicons-money-alt {
+    font-size: 18px;
+}
+
+#app {
+    min-height: 100vh;
+}
+
+button, input, select, textarea {
+    font-family: inherit;
+}
